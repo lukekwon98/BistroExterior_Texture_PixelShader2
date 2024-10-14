@@ -38,4 +38,6 @@
 ## Assets
 - **Textures:** `woodentable.jpg`, `danji.jpg` (stored in the Data folder)
 
+Click to watch video:
+
 [![영상보기](https://img.youtube.com/vi/Km4seLqofOk/0.jpg)](https://www.youtube.com/watch?v=Km4seLqofOk)
