@@ -32,8 +32,6 @@
 ### 6. Transparent Cube
 - A rotating black cube that becomes transparent using the '6' key and adjustable transparency with `k` and `l` keys  
 
-### 7. Additional Shader Effects
-- Not implemented
 
 ## Assets
 - **Textures:** `woodentable.jpg`, `danji.jpg` (stored in the Data folder)
